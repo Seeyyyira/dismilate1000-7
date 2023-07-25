@@ -3,6 +3,8 @@ A Roblox UI library inspired by Splix, BBot and many others.
 
 Used in the Linoria script hub: https://kyaru.cloud
 
+Sry Linoria dev.. 
+
 ###### Example Script: 
 * [Example](Example.lua)
 
