@@ -1,7 +1,7 @@
 --[[
         by ．Ｋｉｒｉｎａ
 
-        (This file obfuscated .OliyySozxu security ib </>):gsub(Dont deobfuscate this if u noob shit)
+        (This file obfuscated .OliyySozxu security ib2 </>):gsub(Dont deobfuscate this if u noob shit)
 
 ]]
 
